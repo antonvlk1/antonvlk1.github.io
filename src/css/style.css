@@ -1,0 +1,76 @@
+body{
+    font-family: Arial, sans-serif;
+}
+nav{
+    width: 1920px;
+    height: 60px;
+        background:#344051;
+}
+.logo{
+    color: #ffffff;
+    font-size: 24px;
+    line-height: 60px;
+    padding-left: 388px;
+    float: left
+}
+.menu{
+   color: #ffffff; 
+    font-size: 14px;
+    padding-left: 432px;
+    line-height: 60px;
+    text-transform: uppercase;
+    float: left;
+    
+        
+    
+}
+.menu li{
+    float: left;
+    padding-right: 40px;
+}
+.main{
+    width: 100%;
+    height: calc(100% - 60px);
+    background: url(../img/boy.png) 90% 100%/auto 85% no-repeat, url(../img/bg.jpg) center/cover no-repeat;      
+}
+.title__container{
+margin: 432px 0px 0px 404px;
+    float: left;
+    text-align: center;   
+}
+.title__container h1{
+    color: #2c384a;
+    font-size: 60px;
+    font-weight: bold;
+}
+.title__container h4{
+    color: #79818d;
+    margin-top: 40px;
+    font-size: 22px;
+}
+.title__container input{
+    margin: 55px 13px 0px 13px;
+    height: 40px;
+    padding: 0px 16px;
+    text-align: center;
+    border: 2px solid #79818d;
+    border-radius: 5px;
+    background: none;
+    color: #79818d;
+    font-size: 13px;   
+}
+.me{
+    width: auto;
+    height: 715px;
+    background: url(../img/4erta.png) 920px 50px no-repeat, url(../img/foto.png) no-repeat 860px 95px ;
+    }
+.me h3{
+    margin-top: 110px;
+    color: #263244;
+    font-size: 30px;
+    font-weight: 550;
+    text-align: center;
+}
+
+
+    
